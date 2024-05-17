@@ -1,0 +1,31 @@
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/compress.c \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/zlib.h \
+  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib/zconf.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/stddef.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stddef_null.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/features.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/bits/alltypes.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/bits/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/sys/types.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/endian.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/sys/select.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/compat/stdarg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/stdarg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/unistd.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/wasi/api.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/llvm/lib/clang/18/include/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/bits/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include/bits/posix.h

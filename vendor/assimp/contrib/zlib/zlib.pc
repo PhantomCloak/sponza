@@ -1,0 +1,13 @@
+prefix=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot
+exec_prefix=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot
+libdir=
+sharedlibdir=
+includedir=
+
+Name: zlib
+Description: zlib compression library
+Version: 
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
