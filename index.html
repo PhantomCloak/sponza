@@ -25,9 +25,15 @@
 <body>
     <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 		<script type="text/javascript">
+
         var Module = {
-            canvas: (function() { return document.getElementById('canvas'); })()
+            canvas: (function() { return document.getElementById('canvas'); })(),
+            onRuntimeInitialized: function() {
+				console.log("READY");
+                onAppInitialized();
+            }
         };
+
 
         function resizeCanvas() {
             var canvas = Module.canvas;
@@ -55,10 +61,10 @@
         window.addEventListener('load', resizeCanvas);
 
         function onAppInitialized() {
-						setTimeout(resizeCanvas, 1000); // delay in milliseconds
+			setTimeout(resizeCanvas, 100); // delay in milliseconds
         }
     </script>
 
-    <script src="MyApp.js" onload="onAppInitialized()"></script>
+    <script src="MyApp.js"></script>
 </body>
 </html>
