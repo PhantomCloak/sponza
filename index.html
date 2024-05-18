@@ -1,34 +1,30 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        /* Set body and html to full height and width, and remove margins */
         html, body {
             height: 100%;
             margin: 0;
             padding: 0;
-            overflow: hidden; /* Prevents scrollbars */
-            display: flex;   /* Flex to center the canvas */
+            overflow: hidden;
+            display: flex;  
             justify-content: center;
             align-items: center;
-            background-color: #000; /* Background for letterboxing */
+            background-color: #000; 
         }
         canvas {
-            /* Ensures the canvas is not more than the viewport size */
             max-width: 100%;
             max-height: 100%;
-            position: relative; /* Center in the absolute sense */
-            box-shadow: 0 0 8px rgba(0, 0, 0, 0.5); /* Optional: adds shadow for better visibility */
+            position: relative; 
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
         }
     </style>
 </head>
 <body>
     <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
-
-    <script type="text/javascript">
+		<script type="text/javascript">
         var Module = {
             canvas: (function() { return document.getElementById('canvas'); })()
         };
@@ -41,18 +37,15 @@
             var newWidthToHeight = newWidth / newHeight;
             
             if (newWidthToHeight > widthToHeight) {
-                // Window is wider than the desired aspect ratio
                 newWidth = newHeight * widthToHeight;
                 canvas.style.height = newHeight + 'px';
                 canvas.style.width = newWidth + 'px';
             } else {
-                // Window is taller than the desired aspect ratio
                 newHeight = newWidth / widthToHeight;
                 canvas.style.width = newWidth + 'px';
                 canvas.style.height = newHeight + 'px';
             }
 
-            // Centering the canvas within the viewport
             canvas.style.position = 'absolute';
             canvas.style.left = (window.innerWidth - newWidth) / 2 + 'px';
             canvas.style.top = (window.innerHeight - newHeight) / 2 + 'px';
@@ -60,9 +53,12 @@
 
         window.addEventListener('resize', resizeCanvas);
         window.addEventListener('load', resizeCanvas);
+
+        function onAppInitialized() {
+						setTimeout(resizeCanvas, 1000); // delay in milliseconds
+        }
     </script>
 
-    <script src="MyApp.js"></script>
+    <script src="MyApp.js" onload="onAppInitialized()"></script>
 </body>
 </html>
-
