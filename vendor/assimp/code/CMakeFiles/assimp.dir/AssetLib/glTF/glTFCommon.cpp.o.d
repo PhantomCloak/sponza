@@ -1,8 +1,8 @@
 vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF/glTFCommon.cpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF/glTFCommon.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Exceptional.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOStream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF/glTFCommon.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF/glTFCommon.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Exceptional.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOStream.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdio \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
@@ -27,8 +27,8 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
@@ -40,9 +40,9 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cmath \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__type_traits/enable_if.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__type_traits/is_arithmetic.h \
@@ -185,11 +185,11 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstring \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/new \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__exception/exception.h \
@@ -687,15 +687,15 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
@@ -788,39 +788,39 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/glTF/glTFCommon.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/map \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__tree \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/document.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/reader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/allocators.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/document.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/reader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/allocators.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/rapidjson.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cassert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/meta.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../rapidjson.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodings.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodedstream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/memorystream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/clzll.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/stack.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../allocators.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/swap.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strtod.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/ieee754.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/biginteger.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/diyfp.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/pow10.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/error.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/../rapidjson.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strfunc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../stream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/en.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ByteSwapper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ai_assert.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOSystem.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOSystem.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/meta.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodings.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodedstream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/memorystream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/clzll.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/stack.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../allocators.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/swap.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strtod.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/ieee754.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/biginteger.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/diyfp.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/pow10.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/error.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/../rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strfunc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../stream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/en.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ByteSwapper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ai_assert.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOSystem.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOSystem.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h \

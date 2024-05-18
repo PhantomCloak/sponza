@@ -57,10 +57,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground
+CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground-portfolio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground/build/emscripten
+CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/test/headercheck//CMakeFiles/progress.marks
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles 0
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/test/headercheck//CMakeFiles/progress.marks
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/clean
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,17 +148,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/preinstall
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/preinstall
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/test/headercheck/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -184,6 +184,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

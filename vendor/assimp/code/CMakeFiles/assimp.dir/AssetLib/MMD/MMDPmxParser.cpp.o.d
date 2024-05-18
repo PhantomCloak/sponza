@@ -1,5 +1,5 @@
 vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/MMD/MMDPmxParser.cpp.o: \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.cpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/utility \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
@@ -234,7 +234,7 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/MMD/MMDPmxParser.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__fwd/streambuf.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__std_mbstate_t.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__mbstate_t.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/vector \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__algorithm/copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__algorithm/copy_move_common.h \
@@ -755,35 +755,35 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/MMD/MMDPmxParser.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/path_iterator.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/u8path.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDCpp14.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDCpp14.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringUtils.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/utf8cpp/source/utf8.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/utf8cpp/source/utf8/checked.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/utf8cpp/source/utf8/core.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/utf8cpp/source/utf8/cpp17.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/utf8cpp/source/utf8/unchecked.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Exceptional.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOStream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/utf8cpp/source/utf8.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/utf8cpp/source/utf8/checked.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/utf8cpp/source/utf8/core.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/utf8cpp/source/utf8/cpp17.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/utf8cpp/source/utf8/unchecked.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Exceptional.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOStream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h

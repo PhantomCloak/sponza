@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ph4nt0m/Developer/playground/vendor/assimp
+# Install script for directory: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "libassimp5.4.0-dev" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4" TYPE FILE FILES
-    "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/generated/assimpConfig.cmake"
-    "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/generated/assimpConfigVersion.cmake"
+    "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/generated/assimpConfig.cmake"
+    "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/generated/assimpConfigVersion.cmake"
     )
 endif()
 
@@ -48,7 +48,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "libassimp5.4.0-dev" OR NOT CMAKE_INSTALL_CO
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4/assimpTargets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4/assimpTargets.cmake"
-         "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets.cmake")
+         "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4/assimpTargets-*.cmake")
       if(_cmake_old_config_files)
@@ -61,28 +61,28 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "libassimp5.4.0-dev" OR NOT CMAKE_INSTALL_CO
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets-release.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/assimp-5.4" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/CMakeFiles/Export/48d9c4119e0f845c087d34dc4fbb1ef2/assimpTargets-release.cmake")
   endif()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib/cmake_install.cmake")
+  include("/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/code/cmake_install.cmake")
+  include("/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/code/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/test/cmake_install.cmake")
+  include("/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/test/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "libassimp5.4.0-dev" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/assimp.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/assimp.pc")
 endif()
 

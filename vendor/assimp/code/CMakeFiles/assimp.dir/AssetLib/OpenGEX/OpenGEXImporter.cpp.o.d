@@ -1,9 +1,9 @@
 vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o: \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.cpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/BaseImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Exceptional.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOStream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/BaseImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Exceptional.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOStream.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdio \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
@@ -28,8 +28,8 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
@@ -41,9 +41,9 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cmath \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__type_traits/enable_if.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__type_traits/is_arithmetic.h \
@@ -186,11 +186,11 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstring \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/new \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__exception/exception.h \
@@ -688,15 +688,15 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
@@ -734,7 +734,7 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg___va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg_va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdarg \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ProgressHandler.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ProgressHandler.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/set \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/is_transparent.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__iterator/ranges_iterator_traits.h \
@@ -789,46 +789,46 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/OpenGEX/OpenGEXImporter.cpp.o:
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_binary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/mesh.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/aabb.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/mesh.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/aabb.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/unordered_set \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/list \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/map \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/PostProcessing/MakeVerboseFormat.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/BaseProcess.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/GenericProperty.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Hash.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ai_assert.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Importer.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOSystem.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOSystem.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/PostProcessing/MakeVerboseFormat.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/BaseProcess.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/GenericProperty.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Hash.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ai_assert.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Importer.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOSystem.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOSystem.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/unistd.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/posix.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringComparison.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringComparison.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringUtils.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iomanip \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultLogger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Logger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/NullLogger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/scene.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/texture.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/poppack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/light.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/camera.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/anim.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/metadata.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLParser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/DDLNode.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLCommon.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultLogger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Logger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/NullLogger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/scene.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/texture.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/poppack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/light.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/camera.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/anim.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/metadata.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/DDLNode.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLCommon.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLParserUtils.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/Value.h
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/OpenDDLParserUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/openddlparser/include/openddlparser/Value.h

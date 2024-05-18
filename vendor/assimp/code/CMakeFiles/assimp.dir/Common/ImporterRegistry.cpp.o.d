@@ -1,10 +1,10 @@
 vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/ImporterRegistry.cpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/anim.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/ImporterRegistry.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/anim.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config_site \
@@ -33,7 +33,7 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cmath \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__verbose_abort \
@@ -179,10 +179,10 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstring \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/new \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__exception/exception.h \
@@ -684,19 +684,19 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/BaseImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Exceptional.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOStream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/BaseImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Exceptional.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOStream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
@@ -734,7 +734,7 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg___va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg_va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdarg \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ProgressHandler.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ProgressHandler.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/set \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/is_transparent.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__iterator/ranges_iterator_traits.h \
@@ -789,169 +789,169 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_binary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/X/XFileImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/X/XFileImporter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/map \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/X/XFileHelper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/mesh.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/aabb.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/X/XFileHelper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/mesh.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/aabb.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/unordered_set \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/AMF/AMFImporter.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/AMF/AMFImporter_Node.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/scene.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/texture.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/poppack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/light.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/camera.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/metadata.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/AMF/AMFImporter.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/AMF/AMFImporter_Node.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/scene.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/texture.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/poppack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/light.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/camera.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/metadata.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/list \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/XmlParser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ai_assert.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultLogger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogStream.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Logger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/NullLogger.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/pugixml/src/pugixml.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/pugixml/src/pugiconfig.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/pugixml/src/pugixml.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/XmlParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ai_assert.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultLogger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogStream.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Logger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/NullLogger.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/pugixml/src/pugixml.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/pugixml/src/pugiconfig.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/pugixml/src/pugixml.cpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/float.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/float.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/3DS/3DSLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/3DS/3DSHelper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SmoothingGroups.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SmoothingGroups.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SGSpatialSort.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SpatialSort.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/3DS/3DSLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/3DS/3DSHelper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SmoothingGroups.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SmoothingGroups.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SGSpatialSort.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SpatialSort.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringUtils.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iomanip \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/qnan.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Compiler/pushpack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Compiler/poppack1.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StreamReader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ByteSwapper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD3/MD3Loader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD3/MD3FileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringComparison.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MDL/MDLLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MDL/MDLFileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/HMP/HalfLifeFileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MDL/HalfLife/HL1ImportSettings.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD2/MD2Loader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD2/MD2FileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Ply/PlyLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Ply/PlyParser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ParsingUtils.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStreamBuffer.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/ASE/ASELoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/ASE/ASEParser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Obj/ObjFileImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/HMP/HMPLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/HMP/HMPFileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/SMD/SMDLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MDC/MDCLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MDC/MDCFileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD5/MD5Loader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MD5/MD5Parser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/STL/STLLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/LWO/LWOLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/LWO/LWOFileData.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/LWO/LWOAnimation.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/IFF.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/DXF/DXFLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/NFF/NFFLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Raw/RawLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/SIB/SIBImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/OFF/OFFLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/AC/ACLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/BVH/BVHLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Irr/IRRMeshLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Irr/IRRShared.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Irr/IRRLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/Importer.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SceneCombiner.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Q3D/Q3DLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/B3D/B3DImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Collada/ColladaLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Collada/ColladaParser.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Collada/ColladaHelper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Terragen/TerragenLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/CSM/CSMLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Unreal/UnrealLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/LWS/LWSLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Ogre/OgreImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Ogre/OgreParsingUtils.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Ogre/OgreStructs.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MemoryIOWrapper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOSystem.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/qnan.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Compiler/pushpack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Compiler/poppack1.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StreamReader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ByteSwapper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD3/MD3Loader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD3/MD3FileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringComparison.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MDL/MDLLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MDL/MDLFileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/HMP/HalfLifeFileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MDL/HalfLife/HL1ImportSettings.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD2/MD2Loader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD2/MD2FileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Ply/PlyLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Ply/PlyParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ParsingUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStreamBuffer.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/ASE/ASELoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/ASE/ASEParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Obj/ObjFileImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/HMP/HMPLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/HMP/HMPFileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/SMD/SMDLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MDC/MDCLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MDC/MDCFileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD5/MD5Loader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MD5/MD5Parser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/STL/STLLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/LWO/LWOLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/LWO/LWOFileData.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/LWO/LWOAnimation.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/IFF.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/DXF/DXFLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/NFF/NFFLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Raw/RawLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/SIB/SIBImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/OFF/OFFLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/AC/ACLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/BVH/BVHLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Irr/IRRMeshLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Irr/IRRShared.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Irr/IRRLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/Importer.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SceneCombiner.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Q3D/Q3DLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/B3D/B3DImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Collada/ColladaLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Collada/ColladaParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Collada/ColladaHelper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Terragen/TerragenLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/CSM/CSMLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Unreal/UnrealLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/LWS/LWSLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Ogre/OgreImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Ogre/OgreParsingUtils.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Ogre/OgreStructs.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MemoryIOWrapper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOSystem.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/unistd.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/posix.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MS3D/MS3DLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/COB/COBLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Blender/BlenderLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogAux.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Q3BSP/Q3BSPFileImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/NDO/NDOLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IFC/IFCLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/XGL/XGLLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Importer.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXImportSettings.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Assbin/AssbinLoader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF/glTFImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOSystem.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF2/glTF2Importer.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF2/glTF2Asset.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/document.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/reader.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/allocators.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/OpenGEX/OpenGEXImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MS3D/MS3DLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/COB/COBLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Blender/BlenderLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogAux.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Q3BSP/Q3BSPFileImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/NDO/NDOLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IFC/IFCLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/XGL/XGLLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Importer.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXImportSettings.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Assbin/AssbinLoader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF/glTFImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOSystem.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF2/glTF2Importer.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF2/glTF2Asset.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/document.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/reader.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/allocators.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/rapidjson.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/inttypes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cassert \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/meta.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../rapidjson.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodings.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodedstream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/memorystream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/clzll.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/stack.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../allocators.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/swap.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strtod.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/ieee754.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/biginteger.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/diyfp.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/pow10.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/error.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/../rapidjson.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strfunc.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../stream.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/en.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/schema.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/pointer.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/uri.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/itoa.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stringbuffer.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/regex.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/GltfMaterial.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF/glTFCommon.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/glTF2/glTF2Asset.inl \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Base64.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/3MF/D3MFImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/X3D/X3DImporter.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/X3D/X3DImporter_Node.hpp \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDImporter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/meta.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodings.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/encodedstream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/memorystream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/clzll.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/stack.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../allocators.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/swap.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strtod.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/ieee754.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/biginteger.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/diyfp.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/pow10.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/error.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/../rapidjson.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/strfunc.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/../stream.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/error/en.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/schema.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/pointer.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/uri.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/itoa.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/stringbuffer.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/../contrib/rapidjson/include/rapidjson/internal/regex.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/GltfMaterial.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF/glTFCommon.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/glTF2/glTF2Asset.inl \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Base64.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/3MF/D3MFImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/X3D/X3DImporter.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/X3D/X3DImporter_Node.hpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDImporter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDPmxParser.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iostream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/fstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/filesystem \
@@ -972,5 +972,5 @@ vendor/assimp/code/CMakeFiles/assimp.dir/Common/ImporterRegistry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/path_iterator.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__filesystem/u8path.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/MMD/MMDCpp14.h \
-  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IQM/IQMImporter.h
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/MMD/MMDCpp14.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IQM/IQMImporter.h

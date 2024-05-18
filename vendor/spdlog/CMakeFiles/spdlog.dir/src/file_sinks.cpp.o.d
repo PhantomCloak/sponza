@@ -1,9 +1,9 @@
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/file_helper-inl.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/file_helper.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/common.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/null_mutex.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/src/file_sinks.cpp \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/file_helper-inl.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/file_helper.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/common.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/null_mutex.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/atomic \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
@@ -282,7 +282,7 @@ vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__fwd/streambuf.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__std_mbstate_t.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__mbstate_t.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/tweakme.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/tweakme.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/chrono \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__chrono/calendar.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__chrono/convert_to_tm.h \
@@ -778,10 +778,10 @@ vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_binary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/fmt/fmt.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/fmt/bundled/core.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/fmt/bundled/format.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/os.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/fmt/fmt.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/fmt/bundled/core.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/fmt/bundled/format.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/os.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/thread \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__thread/formatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__thread/this_thread.h \
@@ -790,17 +790,17 @@ vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/bitset \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/base_sink-inl.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/base_sink.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/log_msg.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/sink.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/formatter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/pattern_formatter.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/basic_file_sink-inl.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/basic_file_sink.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/synchronous_factory.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/registry.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/details/periodic_worker.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/base_sink-inl.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/base_sink.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/log_msg.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/sink.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/formatter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/pattern_formatter.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/basic_file_sink-inl.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/basic_file_sink.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/synchronous_factory.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/registry.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/details/periodic_worker.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/condition_variable \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/rotating_file_sink-inl.h \
-  /Users/ph4nt0m/Developer/playground/vendor/spdlog/include/spdlog/sinks/rotating_file_sink.h
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/rotating_file_sink-inl.h \
+  /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog/include/spdlog/sinks/rotating_file_sink.h
