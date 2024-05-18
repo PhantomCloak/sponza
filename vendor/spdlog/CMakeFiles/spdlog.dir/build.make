@@ -74,105 +74,105 @@ vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: vendor/spdlog/CMakeFiles/s
 vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -MF CMakeFiles/spdlog.dir/src/spdlog.cpp.o.d -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -MF CMakeFiles/spdlog.dir/src/spdlog.cpp.o.d -o CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/spdlog.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp > CMakeFiles/spdlog.dir/src/spdlog.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp > CMakeFiles/spdlog.dir/src/spdlog.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/spdlog.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp -o CMakeFiles/spdlog.dir/src/spdlog.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/spdlog.cpp -o CMakeFiles/spdlog.dir/src/spdlog.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp > CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp > CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/stdout_sinks.cpp -o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/color_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/color_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/color_sinks.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp > CMakeFiles/spdlog.dir/src/color_sinks.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp > CMakeFiles/spdlog.dir/src/color_sinks.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/color_sinks.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/color_sinks.cpp -o CMakeFiles/spdlog.dir/src/color_sinks.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/file_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -MF CMakeFiles/spdlog.dir/src/file_sinks.cpp.o.d -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/file_sinks.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp > CMakeFiles/spdlog.dir/src/file_sinks.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp > CMakeFiles/spdlog.dir/src/file_sinks.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/file_sinks.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/file_sinks.cpp -o CMakeFiles/spdlog.dir/src/file_sinks.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o -MF CMakeFiles/spdlog.dir/src/async.cpp.o.d -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o -MF CMakeFiles/spdlog.dir/src/async.cpp.o.d -o CMakeFiles/spdlog.dir/src/async.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/async.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp > CMakeFiles/spdlog.dir/src/async.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp > CMakeFiles/spdlog.dir/src/async.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/async.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp -o CMakeFiles/spdlog.dir/src/async.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/async.cpp -o CMakeFiles/spdlog.dir/src/async.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o -MF CMakeFiles/spdlog.dir/src/cfg.cpp.o.d -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o -MF CMakeFiles/spdlog.dir/src/cfg.cpp.o.d -o CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/cfg.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp > CMakeFiles/spdlog.dir/src/cfg.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp > CMakeFiles/spdlog.dir/src/cfg.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/cfg.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp -o CMakeFiles/spdlog.dir/src/cfg.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/cfg.cpp -o CMakeFiles/spdlog.dir/src/cfg.cpp.s
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/flags.make
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/includes_CXX.rsp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o: vendor/spdlog/CMakeFiles/spdlog.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -MF CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o.d -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -MF CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o.d -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp > CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp > CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.i
 
 vendor/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s"
-	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /opt/homebrew/Cellar/emscripten/3.1.51/libexec/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/spdlog && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/spdlog/src/bundled_fmtlib_format.cpp -o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.s
 
 # Object files for target spdlog
 spdlog_OBJECTS = \

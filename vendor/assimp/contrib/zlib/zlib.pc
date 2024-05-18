@@ -1,5 +1,5 @@
-prefix=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot
-exec_prefix=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot
+prefix=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot
+exec_prefix=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot
 libdir=
 sharedlibdir=
 includedir=

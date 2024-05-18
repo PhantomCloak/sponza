@@ -1,5 +1,5 @@
-libdir=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/lib
-includedir=/opt/homebrew/Cellar/emscripten/3.1.51/libexec/cache/sysroot/include
+libdir=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/lib
+includedir=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include
 
 Name: MyDawnProject
 Description: Import various well-known 3D model formats in an uniform manner.

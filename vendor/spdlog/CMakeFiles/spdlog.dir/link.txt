@@ -1,2 +1,2 @@
-/opt/homebrew/Cellar/emscripten/3.1.51/libexec/emar qc libspdlog.a CMakeFiles/spdlog.dir/src/spdlog.cpp.o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o CMakeFiles/spdlog.dir/src/async.cpp.o CMakeFiles/spdlog.dir/src/cfg.cpp.o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o
-/opt/homebrew/Cellar/emscripten/3.1.51/libexec/emranlib libspdlog.a
+/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emar qc libspdlog.a CMakeFiles/spdlog.dir/src/spdlog.cpp.o CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o CMakeFiles/spdlog.dir/src/color_sinks.cpp.o CMakeFiles/spdlog.dir/src/file_sinks.cpp.o CMakeFiles/spdlog.dir/src/async.cpp.o CMakeFiles/spdlog.dir/src/cfg.cpp.o CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o
+/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emranlib libspdlog.a
