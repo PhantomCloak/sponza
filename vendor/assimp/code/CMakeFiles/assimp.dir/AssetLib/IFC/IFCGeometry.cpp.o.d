@@ -1,8 +1,8 @@
 vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/IFC/IFCGeometry.cpp.o: \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IFC/IFCGeometry.cpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IFC/IFCUtil.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IFC/IFCReaderGen_2x3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/Step/STEPFile.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IFC/IFCGeometry.cpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IFC/IFCUtil.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IFC/IFCReaderGen_2x3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/Step/STEPFile.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/bitset \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__algorithm/fill.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__algorithm/fill_n.h \
@@ -763,7 +763,7 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/IFC/IFCGeometry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/set \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXDocument.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXDocument.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/numeric \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__numeric/accumulate.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__numeric/adjacent_difference.h \
@@ -779,88 +779,88 @@ vendor/assimp/code/CMakeFiles/assimp.dir/AssetLib/IFC/IFCGeometry.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__numeric/transform_exclusive_scan.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__numeric/transform_inclusive_scan.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/unordered_set \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/mesh.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/aabb.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/mesh.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/aabb.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXProperties.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXCompileConfig.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXParser.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogAux.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXProperties.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXCompileConfig.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXParser.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogAux.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Exceptional.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultIOStream.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/IOStream.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/DefaultLogger.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogStream.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Logger.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/NullLogger.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/fast_atof.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringComparison.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ai_assert.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StringUtils.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Exceptional.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultIOStream.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/IOStream.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/DefaultLogger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogStream.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Logger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/NullLogger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/fast_atof.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringComparison.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ai_assert.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StringUtils.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iomanip \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Compiler/pstdint.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Compiler/pstdint.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/signal.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/signal.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/StackAllocator.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/StackAllocator.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/FBX/FBXTokenizer.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LineSplitter.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/StreamReader.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ByteSwapper.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ParsingUtils.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/AssetLib/IFC/IFCLoader.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/BaseImporter.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/ProgressHandler.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/./Compiler/poppack1.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/material.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/PolyTools.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/PostProcessing/ProcessHelper.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/anim.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/postprocess.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/scene.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/texture.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/light.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/camera.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/metadata.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/code/Common/BaseProcess.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/GenericProperty.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Hash.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/Importer.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/SpatialSort.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/StackAllocator.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/StackAllocator.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/FBX/FBXTokenizer.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LineSplitter.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/StreamReader.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ByteSwapper.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ParsingUtils.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/AssetLib/IFC/IFCLoader.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/BaseImporter.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/ProgressHandler.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/pushpack1.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/./Compiler/poppack1.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/material.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/PolyTools.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/PostProcessing/ProcessHelper.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/anim.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/postprocess.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/scene.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/texture.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/light.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/camera.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/metadata.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/code/Common/BaseProcess.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/GenericProperty.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Hash.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/Importer.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/SpatialSort.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/list \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/poly2tri.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/common/shapes.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/poly2tri.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/common/shapes.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/cdt.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/advancing_front.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/../common/shapes.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/sweep_context.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/sweep.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/./contrib/clipper/clipper.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/cdt.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/advancing_front.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/../common/shapes.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/sweep_context.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/poly2tri/poly2tri/sweep/sweep.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/./contrib/clipper/clipper.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/queue \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/deque

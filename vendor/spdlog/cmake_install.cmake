@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ph4nt0m/Developer/playground-portfolio/vendor/spdlog
+# Install script for directory: /Users/ph4nt0m/Developer/playground/vendor/spdlog
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

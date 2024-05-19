@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/headercheck
+# Install script for directory: /Users/ph4nt0m/Developer/playground/vendor/assimp/test/headercheck
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

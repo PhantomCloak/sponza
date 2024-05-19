@@ -3,13 +3,13 @@
 
 # compile C with /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc
 # compile CXX with /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++
-C_DEFINES = -DASSIMP_BUILD_NO_C4D_IMPORTER -DASSIMP_BUILD_NO_M3D_EXPORTER -DASSIMP_BUILD_NO_M3D_IMPORTER -DASSIMP_TEST_MODELS_DIR=\"/Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/models\" -DASSIMP_TEST_MODELS_NONBSD_DIR=\"/Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/models-nonbsd\" -DRAPIDJSON_HAS_STDSTRING=1 -DRAPIDJSON_NOMEMBERITERATORCLASS
+C_DEFINES = -DASSIMP_BUILD_NO_C4D_IMPORTER -DASSIMP_BUILD_NO_M3D_EXPORTER -DASSIMP_BUILD_NO_M3D_IMPORTER -DASSIMP_TEST_MODELS_DIR=\"/Users/ph4nt0m/Developer/playground/vendor/assimp/test/models\" -DASSIMP_TEST_MODELS_NONBSD_DIR=\"/Users/ph4nt0m/Developer/playground/vendor/assimp/test/models-nonbsd\" -DRAPIDJSON_HAS_STDSTRING=1 -DRAPIDJSON_NOMEMBERITERATORCLASS
 
 C_INCLUDES = @CMakeFiles/unit.dir/includes_C.rsp
 
 C_FLAGS = -fno-strict-aliasing  -O3 -DNDEBUG -std=gnu99 -fPIE -Wall -Werror
 
-CXX_DEFINES = -DASSIMP_BUILD_NO_C4D_IMPORTER -DASSIMP_BUILD_NO_M3D_EXPORTER -DASSIMP_BUILD_NO_M3D_IMPORTER -DASSIMP_TEST_MODELS_DIR=\"/Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/models\" -DASSIMP_TEST_MODELS_NONBSD_DIR=\"/Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/models-nonbsd\" -DRAPIDJSON_HAS_STDSTRING=1 -DRAPIDJSON_NOMEMBERITERATORCLASS
+CXX_DEFINES = -DASSIMP_BUILD_NO_C4D_IMPORTER -DASSIMP_BUILD_NO_M3D_EXPORTER -DASSIMP_BUILD_NO_M3D_IMPORTER -DASSIMP_TEST_MODELS_DIR=\"/Users/ph4nt0m/Developer/playground/vendor/assimp/test/models\" -DASSIMP_TEST_MODELS_NONBSD_DIR=\"/Users/ph4nt0m/Developer/playground/vendor/assimp/test/models-nonbsd\" -DRAPIDJSON_HAS_STDSTRING=1 -DRAPIDJSON_NOMEMBERITERATORCLASS
 
 CXX_INCLUDES = @CMakeFiles/unit.dir/includes_CXX.rsp
 

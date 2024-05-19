@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground-portfolio
+CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten
+CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground/build/emscripten
 
 # Utility rule file for uninstall.
 
@@ -67,7 +67,7 @@ include vendor/assimp/CMakeFiles/uninstall.dir/compiler_depend.make
 include vendor/assimp/CMakeFiles/uninstall.dir/progress.make
 
 vendor/assimp/CMakeFiles/uninstall:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/cmake_uninstall.cmake
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/cmake_uninstall.cmake
 
 uninstall: vendor/assimp/CMakeFiles/uninstall
 uninstall: vendor/assimp/CMakeFiles/uninstall.dir/build.make
@@ -78,10 +78,10 @@ vendor/assimp/CMakeFiles/uninstall.dir/build: uninstall
 .PHONY : vendor/assimp/CMakeFiles/uninstall.dir/build
 
 vendor/assimp/CMakeFiles/uninstall.dir/clean:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
 .PHONY : vendor/assimp/CMakeFiles/uninstall.dir/clean
 
 vendor/assimp/CMakeFiles/uninstall.dir/depend:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ph4nt0m/Developer/playground-portfolio /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ph4nt0m/Developer/playground /Users/ph4nt0m/Developer/playground/vendor/assimp /Users/ph4nt0m/Developer/playground/build/emscripten /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : vendor/assimp/CMakeFiles/uninstall.dir/depend
 

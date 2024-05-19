@@ -57,10 +57,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground-portfolio
+CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten
+CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground/build/emscripten
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib//CMakeFiles/progress.marks
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles 0
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib//CMakeFiles/progress.marks
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/clean
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,22 +148,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/preinstall
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/preinstall
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/rule:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/rule
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/rule
 .PHONY : vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/rule
 
 # Convenience name for target.
@@ -172,7 +172,7 @@ zlibstatic: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/rule
 
 # fast build rule for target.
 zlibstatic/fast:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build
 .PHONY : zlibstatic/fast
 
 adler32.o: adler32.c.o
@@ -180,7 +180,7 @@ adler32.o: adler32.c.o
 
 # target to build an object file
 adler32.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o
 .PHONY : adler32.c.o
 
 adler32.i: adler32.c.i
@@ -188,7 +188,7 @@ adler32.i: adler32.c.i
 
 # target to preprocess a source file
 adler32.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.i
 .PHONY : adler32.c.i
 
 adler32.s: adler32.c.s
@@ -196,7 +196,7 @@ adler32.s: adler32.c.s
 
 # target to generate assembly for a file
 adler32.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.s
 .PHONY : adler32.c.s
 
 compress.o: compress.c.o
@@ -204,7 +204,7 @@ compress.o: compress.c.o
 
 # target to build an object file
 compress.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o
 .PHONY : compress.c.o
 
 compress.i: compress.c.i
@@ -212,7 +212,7 @@ compress.i: compress.c.i
 
 # target to preprocess a source file
 compress.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.i
 .PHONY : compress.c.i
 
 compress.s: compress.c.s
@@ -220,7 +220,7 @@ compress.s: compress.c.s
 
 # target to generate assembly for a file
 compress.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.s
 .PHONY : compress.c.s
 
 crc32.o: crc32.c.o
@@ -228,7 +228,7 @@ crc32.o: crc32.c.o
 
 # target to build an object file
 crc32.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o
 .PHONY : crc32.c.o
 
 crc32.i: crc32.c.i
@@ -236,7 +236,7 @@ crc32.i: crc32.c.i
 
 # target to preprocess a source file
 crc32.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.i
 .PHONY : crc32.c.i
 
 crc32.s: crc32.c.s
@@ -244,7 +244,7 @@ crc32.s: crc32.c.s
 
 # target to generate assembly for a file
 crc32.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.s
 .PHONY : crc32.c.s
 
 deflate.o: deflate.c.o
@@ -252,7 +252,7 @@ deflate.o: deflate.c.o
 
 # target to build an object file
 deflate.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o
 .PHONY : deflate.c.o
 
 deflate.i: deflate.c.i
@@ -260,7 +260,7 @@ deflate.i: deflate.c.i
 
 # target to preprocess a source file
 deflate.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.i
 .PHONY : deflate.c.i
 
 deflate.s: deflate.c.s
@@ -268,7 +268,7 @@ deflate.s: deflate.c.s
 
 # target to generate assembly for a file
 deflate.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.s
 .PHONY : deflate.c.s
 
 gzclose.o: gzclose.c.o
@@ -276,7 +276,7 @@ gzclose.o: gzclose.c.o
 
 # target to build an object file
 gzclose.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o
 .PHONY : gzclose.c.o
 
 gzclose.i: gzclose.c.i
@@ -284,7 +284,7 @@ gzclose.i: gzclose.c.i
 
 # target to preprocess a source file
 gzclose.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.i
 .PHONY : gzclose.c.i
 
 gzclose.s: gzclose.c.s
@@ -292,7 +292,7 @@ gzclose.s: gzclose.c.s
 
 # target to generate assembly for a file
 gzclose.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.s
 .PHONY : gzclose.c.s
 
 gzlib.o: gzlib.c.o
@@ -300,7 +300,7 @@ gzlib.o: gzlib.c.o
 
 # target to build an object file
 gzlib.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o
 .PHONY : gzlib.c.o
 
 gzlib.i: gzlib.c.i
@@ -308,7 +308,7 @@ gzlib.i: gzlib.c.i
 
 # target to preprocess a source file
 gzlib.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.i
 .PHONY : gzlib.c.i
 
 gzlib.s: gzlib.c.s
@@ -316,7 +316,7 @@ gzlib.s: gzlib.c.s
 
 # target to generate assembly for a file
 gzlib.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.s
 .PHONY : gzlib.c.s
 
 gzread.o: gzread.c.o
@@ -324,7 +324,7 @@ gzread.o: gzread.c.o
 
 # target to build an object file
 gzread.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o
 .PHONY : gzread.c.o
 
 gzread.i: gzread.c.i
@@ -332,7 +332,7 @@ gzread.i: gzread.c.i
 
 # target to preprocess a source file
 gzread.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.i
 .PHONY : gzread.c.i
 
 gzread.s: gzread.c.s
@@ -340,7 +340,7 @@ gzread.s: gzread.c.s
 
 # target to generate assembly for a file
 gzread.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.s
 .PHONY : gzread.c.s
 
 gzwrite.o: gzwrite.c.o
@@ -348,7 +348,7 @@ gzwrite.o: gzwrite.c.o
 
 # target to build an object file
 gzwrite.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o
 .PHONY : gzwrite.c.o
 
 gzwrite.i: gzwrite.c.i
@@ -356,7 +356,7 @@ gzwrite.i: gzwrite.c.i
 
 # target to preprocess a source file
 gzwrite.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.i
 .PHONY : gzwrite.c.i
 
 gzwrite.s: gzwrite.c.s
@@ -364,7 +364,7 @@ gzwrite.s: gzwrite.c.s
 
 # target to generate assembly for a file
 gzwrite.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.s
 .PHONY : gzwrite.c.s
 
 infback.o: infback.c.o
@@ -372,7 +372,7 @@ infback.o: infback.c.o
 
 # target to build an object file
 infback.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o
 .PHONY : infback.c.o
 
 infback.i: infback.c.i
@@ -380,7 +380,7 @@ infback.i: infback.c.i
 
 # target to preprocess a source file
 infback.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.i
 .PHONY : infback.c.i
 
 infback.s: infback.c.s
@@ -388,7 +388,7 @@ infback.s: infback.c.s
 
 # target to generate assembly for a file
 infback.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.s
 .PHONY : infback.c.s
 
 inffast.o: inffast.c.o
@@ -396,7 +396,7 @@ inffast.o: inffast.c.o
 
 # target to build an object file
 inffast.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o
 .PHONY : inffast.c.o
 
 inffast.i: inffast.c.i
@@ -404,7 +404,7 @@ inffast.i: inffast.c.i
 
 # target to preprocess a source file
 inffast.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.i
 .PHONY : inffast.c.i
 
 inffast.s: inffast.c.s
@@ -412,7 +412,7 @@ inffast.s: inffast.c.s
 
 # target to generate assembly for a file
 inffast.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.s
 .PHONY : inffast.c.s
 
 inflate.o: inflate.c.o
@@ -420,7 +420,7 @@ inflate.o: inflate.c.o
 
 # target to build an object file
 inflate.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o
 .PHONY : inflate.c.o
 
 inflate.i: inflate.c.i
@@ -428,7 +428,7 @@ inflate.i: inflate.c.i
 
 # target to preprocess a source file
 inflate.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.i
 .PHONY : inflate.c.i
 
 inflate.s: inflate.c.s
@@ -436,7 +436,7 @@ inflate.s: inflate.c.s
 
 # target to generate assembly for a file
 inflate.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.s
 .PHONY : inflate.c.s
 
 inftrees.o: inftrees.c.o
@@ -444,7 +444,7 @@ inftrees.o: inftrees.c.o
 
 # target to build an object file
 inftrees.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o
 .PHONY : inftrees.c.o
 
 inftrees.i: inftrees.c.i
@@ -452,7 +452,7 @@ inftrees.i: inftrees.c.i
 
 # target to preprocess a source file
 inftrees.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.i
 .PHONY : inftrees.c.i
 
 inftrees.s: inftrees.c.s
@@ -460,7 +460,7 @@ inftrees.s: inftrees.c.s
 
 # target to generate assembly for a file
 inftrees.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.s
 .PHONY : inftrees.c.s
 
 trees.o: trees.c.o
@@ -468,7 +468,7 @@ trees.o: trees.c.o
 
 # target to build an object file
 trees.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o
 .PHONY : trees.c.o
 
 trees.i: trees.c.i
@@ -476,7 +476,7 @@ trees.i: trees.c.i
 
 # target to preprocess a source file
 trees.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.i
 .PHONY : trees.c.i
 
 trees.s: trees.c.s
@@ -484,7 +484,7 @@ trees.s: trees.c.s
 
 # target to generate assembly for a file
 trees.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.s
 .PHONY : trees.c.s
 
 uncompr.o: uncompr.c.o
@@ -492,7 +492,7 @@ uncompr.o: uncompr.c.o
 
 # target to build an object file
 uncompr.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o
 .PHONY : uncompr.c.o
 
 uncompr.i: uncompr.c.i
@@ -500,7 +500,7 @@ uncompr.i: uncompr.c.i
 
 # target to preprocess a source file
 uncompr.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.i
 .PHONY : uncompr.c.i
 
 uncompr.s: uncompr.c.s
@@ -508,7 +508,7 @@ uncompr.s: uncompr.c.s
 
 # target to generate assembly for a file
 uncompr.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.s
 .PHONY : uncompr.c.s
 
 zutil.o: zutil.c.o
@@ -516,7 +516,7 @@ zutil.o: zutil.c.o
 
 # target to build an object file
 zutil.c.o:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o
 .PHONY : zutil.c.o
 
 zutil.i: zutil.c.i
@@ -524,7 +524,7 @@ zutil.i: zutil.c.i
 
 # target to preprocess a source file
 zutil.c.i:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.i
 .PHONY : zutil.c.i
 
 zutil.s: zutil.c.s
@@ -532,7 +532,7 @@ zutil.s: zutil.c.s
 
 # target to generate assembly for a file
 zutil.c.s:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(MAKE) $(MAKESILENT) -f vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.s
 .PHONY : zutil.c.s
 
 # Help Target
@@ -604,6 +604,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

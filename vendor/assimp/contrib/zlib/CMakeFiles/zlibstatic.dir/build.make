@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground-portfolio
+CMAKE_SOURCE_DIR = /Users/ph4nt0m/Developer/playground
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten
+CMAKE_BINARY_DIR = /Users/ph4nt0m/Developer/playground/build/emscripten
 
 # Include any dependencies generated for this target.
 include vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/depend.make
@@ -71,228 +71,228 @@ include vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/adler32.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/adler32.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o -MF CMakeFiles/zlibstatic.dir/adler32.c.o.d -o CMakeFiles/zlibstatic.dir/adler32.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/adler32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.o -MF CMakeFiles/zlibstatic.dir/adler32.c.o.d -o CMakeFiles/zlibstatic.dir/adler32.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/adler32.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/adler32.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/adler32.c > CMakeFiles/zlibstatic.dir/adler32.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/adler32.c > CMakeFiles/zlibstatic.dir/adler32.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/adler32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/adler32.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/adler32.c -o CMakeFiles/zlibstatic.dir/adler32.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/adler32.c -o CMakeFiles/zlibstatic.dir/adler32.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/compress.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/compress.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o -MF CMakeFiles/zlibstatic.dir/compress.c.o.d -o CMakeFiles/zlibstatic.dir/compress.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/compress.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.o -MF CMakeFiles/zlibstatic.dir/compress.c.o.d -o CMakeFiles/zlibstatic.dir/compress.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/compress.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/compress.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/compress.c > CMakeFiles/zlibstatic.dir/compress.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/compress.c > CMakeFiles/zlibstatic.dir/compress.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compress.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/compress.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/compress.c -o CMakeFiles/zlibstatic.dir/compress.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/compress.c -o CMakeFiles/zlibstatic.dir/compress.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/crc32.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/crc32.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o -MF CMakeFiles/zlibstatic.dir/crc32.c.o.d -o CMakeFiles/zlibstatic.dir/crc32.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/crc32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.o -MF CMakeFiles/zlibstatic.dir/crc32.c.o.d -o CMakeFiles/zlibstatic.dir/crc32.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/crc32.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/crc32.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/crc32.c > CMakeFiles/zlibstatic.dir/crc32.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/crc32.c > CMakeFiles/zlibstatic.dir/crc32.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/crc32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/crc32.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/crc32.c -o CMakeFiles/zlibstatic.dir/crc32.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/crc32.c -o CMakeFiles/zlibstatic.dir/crc32.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/deflate.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/deflate.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o -MF CMakeFiles/zlibstatic.dir/deflate.c.o.d -o CMakeFiles/zlibstatic.dir/deflate.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/deflate.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.o -MF CMakeFiles/zlibstatic.dir/deflate.c.o.d -o CMakeFiles/zlibstatic.dir/deflate.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/deflate.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/deflate.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/deflate.c > CMakeFiles/zlibstatic.dir/deflate.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/deflate.c > CMakeFiles/zlibstatic.dir/deflate.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/deflate.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/deflate.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/deflate.c -o CMakeFiles/zlibstatic.dir/deflate.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/deflate.c -o CMakeFiles/zlibstatic.dir/deflate.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzclose.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzclose.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o -MF CMakeFiles/zlibstatic.dir/gzclose.c.o.d -o CMakeFiles/zlibstatic.dir/gzclose.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzclose.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.o -MF CMakeFiles/zlibstatic.dir/gzclose.c.o.d -o CMakeFiles/zlibstatic.dir/gzclose.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzclose.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/gzclose.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzclose.c > CMakeFiles/zlibstatic.dir/gzclose.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzclose.c > CMakeFiles/zlibstatic.dir/gzclose.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzclose.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/gzclose.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzclose.c -o CMakeFiles/zlibstatic.dir/gzclose.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzclose.c -o CMakeFiles/zlibstatic.dir/gzclose.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzlib.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzlib.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o -MF CMakeFiles/zlibstatic.dir/gzlib.c.o.d -o CMakeFiles/zlibstatic.dir/gzlib.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzlib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.o -MF CMakeFiles/zlibstatic.dir/gzlib.c.o.d -o CMakeFiles/zlibstatic.dir/gzlib.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzlib.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/gzlib.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzlib.c > CMakeFiles/zlibstatic.dir/gzlib.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzlib.c > CMakeFiles/zlibstatic.dir/gzlib.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/gzlib.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzlib.c -o CMakeFiles/zlibstatic.dir/gzlib.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzlib.c -o CMakeFiles/zlibstatic.dir/gzlib.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzread.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzread.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o -MF CMakeFiles/zlibstatic.dir/gzread.c.o.d -o CMakeFiles/zlibstatic.dir/gzread.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzread.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.o -MF CMakeFiles/zlibstatic.dir/gzread.c.o.d -o CMakeFiles/zlibstatic.dir/gzread.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzread.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/gzread.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzread.c > CMakeFiles/zlibstatic.dir/gzread.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzread.c > CMakeFiles/zlibstatic.dir/gzread.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzread.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/gzread.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzread.c -o CMakeFiles/zlibstatic.dir/gzread.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzread.c -o CMakeFiles/zlibstatic.dir/gzread.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzwrite.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzwrite.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o -MF CMakeFiles/zlibstatic.dir/gzwrite.c.o.d -o CMakeFiles/zlibstatic.dir/gzwrite.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzwrite.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.o -MF CMakeFiles/zlibstatic.dir/gzwrite.c.o.d -o CMakeFiles/zlibstatic.dir/gzwrite.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzwrite.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/gzwrite.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzwrite.c > CMakeFiles/zlibstatic.dir/gzwrite.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzwrite.c > CMakeFiles/zlibstatic.dir/gzwrite.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/gzwrite.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/gzwrite.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/gzwrite.c -o CMakeFiles/zlibstatic.dir/gzwrite.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/gzwrite.c -o CMakeFiles/zlibstatic.dir/gzwrite.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inflate.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inflate.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o -MF CMakeFiles/zlibstatic.dir/inflate.c.o.d -o CMakeFiles/zlibstatic.dir/inflate.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inflate.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.o -MF CMakeFiles/zlibstatic.dir/inflate.c.o.d -o CMakeFiles/zlibstatic.dir/inflate.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inflate.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/inflate.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inflate.c > CMakeFiles/zlibstatic.dir/inflate.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inflate.c > CMakeFiles/zlibstatic.dir/inflate.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inflate.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/inflate.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inflate.c -o CMakeFiles/zlibstatic.dir/inflate.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inflate.c -o CMakeFiles/zlibstatic.dir/inflate.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/infback.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/infback.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o -MF CMakeFiles/zlibstatic.dir/infback.c.o.d -o CMakeFiles/zlibstatic.dir/infback.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/infback.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.o -MF CMakeFiles/zlibstatic.dir/infback.c.o.d -o CMakeFiles/zlibstatic.dir/infback.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/infback.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/infback.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/infback.c > CMakeFiles/zlibstatic.dir/infback.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/infback.c > CMakeFiles/zlibstatic.dir/infback.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/infback.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/infback.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/infback.c -o CMakeFiles/zlibstatic.dir/infback.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/infback.c -o CMakeFiles/zlibstatic.dir/infback.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inftrees.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inftrees.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o -MF CMakeFiles/zlibstatic.dir/inftrees.c.o.d -o CMakeFiles/zlibstatic.dir/inftrees.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inftrees.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.o -MF CMakeFiles/zlibstatic.dir/inftrees.c.o.d -o CMakeFiles/zlibstatic.dir/inftrees.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inftrees.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/inftrees.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inftrees.c > CMakeFiles/zlibstatic.dir/inftrees.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inftrees.c > CMakeFiles/zlibstatic.dir/inftrees.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inftrees.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/inftrees.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inftrees.c -o CMakeFiles/zlibstatic.dir/inftrees.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inftrees.c -o CMakeFiles/zlibstatic.dir/inftrees.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inffast.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inffast.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o -MF CMakeFiles/zlibstatic.dir/inffast.c.o.d -o CMakeFiles/zlibstatic.dir/inffast.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inffast.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.o -MF CMakeFiles/zlibstatic.dir/inffast.c.o.d -o CMakeFiles/zlibstatic.dir/inffast.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inffast.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/inffast.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inffast.c > CMakeFiles/zlibstatic.dir/inffast.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inffast.c > CMakeFiles/zlibstatic.dir/inffast.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/inffast.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/inffast.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/inffast.c -o CMakeFiles/zlibstatic.dir/inffast.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/inffast.c -o CMakeFiles/zlibstatic.dir/inffast.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/trees.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/trees.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o -MF CMakeFiles/zlibstatic.dir/trees.c.o.d -o CMakeFiles/zlibstatic.dir/trees.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/trees.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.o -MF CMakeFiles/zlibstatic.dir/trees.c.o.d -o CMakeFiles/zlibstatic.dir/trees.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/trees.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/trees.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/trees.c > CMakeFiles/zlibstatic.dir/trees.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/trees.c > CMakeFiles/zlibstatic.dir/trees.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/trees.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/trees.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/trees.c -o CMakeFiles/zlibstatic.dir/trees.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/trees.c -o CMakeFiles/zlibstatic.dir/trees.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/uncompr.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/uncompr.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o -MF CMakeFiles/zlibstatic.dir/uncompr.c.o.d -o CMakeFiles/zlibstatic.dir/uncompr.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/uncompr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.o -MF CMakeFiles/zlibstatic.dir/uncompr.c.o.d -o CMakeFiles/zlibstatic.dir/uncompr.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/uncompr.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/uncompr.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/uncompr.c > CMakeFiles/zlibstatic.dir/uncompr.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/uncompr.c > CMakeFiles/zlibstatic.dir/uncompr.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/uncompr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/uncompr.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/uncompr.c -o CMakeFiles/zlibstatic.dir/uncompr.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/uncompr.c -o CMakeFiles/zlibstatic.dir/uncompr.c.s
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/flags.make
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/includes_C.rsp
-vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o: /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/zutil.c
+vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o: /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/zutil.c
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o -MF CMakeFiles/zlibstatic.dir/zutil.c.o.d -o CMakeFiles/zlibstatic.dir/zutil.c.o -c /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/zutil.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o -MF CMakeFiles/zlibstatic.dir/zutil.c.o.d -o CMakeFiles/zlibstatic.dir/zutil.c.o -c /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/zutil.c
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/zlibstatic.dir/zutil.c.i"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/zutil.c > CMakeFiles/zlibstatic.dir/zutil.c.i
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/zutil.c > CMakeFiles/zlibstatic.dir/zutil.c.i
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/zlibstatic.dir/zutil.c.s"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib/zutil.c -o CMakeFiles/zlibstatic.dir/zutil.c.s
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib/zutil.c -o CMakeFiles/zlibstatic.dir/zutil.c.s
 
 # Object files for target zlibstatic
 zlibstatic_OBJECTS = \
@@ -332,19 +332,19 @@ vendor/assimp/contrib/zlib/libzlibstatic.a: vendor/assimp/contrib/zlib/CMakeFile
 vendor/assimp/contrib/zlib/libzlibstatic.a: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/zutil.c.o
 vendor/assimp/contrib/zlib/libzlibstatic.a: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build.make
 vendor/assimp/contrib/zlib/libzlibstatic.a: vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C static library libzlibstatic.a"
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -P CMakeFiles/zlibstatic.dir/cmake_clean_target.cmake
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/zlibstatic.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ph4nt0m/Developer/playground/build/emscripten/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking C static library libzlibstatic.a"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -P CMakeFiles/zlibstatic.dir/cmake_clean_target.cmake
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/zlibstatic.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build: vendor/assimp/contrib/zlib/libzlibstatic.a
 .PHONY : vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/build
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/clean:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -P CMakeFiles/zlibstatic.dir/cmake_clean.cmake
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib && $(CMAKE_COMMAND) -P CMakeFiles/zlibstatic.dir/cmake_clean.cmake
 .PHONY : vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/clean
 
 vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/depend:
-	cd /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ph4nt0m/Developer/playground-portfolio /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/zlib /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ph4nt0m/Developer/playground/build/emscripten && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ph4nt0m/Developer/playground /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/zlib /Users/ph4nt0m/Developer/playground/build/emscripten /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : vendor/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir/depend
 

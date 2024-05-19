@@ -1,8 +1,8 @@
 vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/Main.cpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/DefaultLogger.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/LogStream.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/Main.cpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/DefaultLogger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/LogStream.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/limits.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config_site \
@@ -31,9 +31,9 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/types.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/endian.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/select.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/defs.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/build/emscripten/vendor/assimp/include/assimp/config.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector2.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/defs.h \
+  /Users/ph4nt0m/Developer/playground/build/emscripten/vendor/assimp/include/assimp/config.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector2.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cmath \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__assert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__verbose_abort \
@@ -179,11 +179,11 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/vector3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/color4.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/vector3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/color4.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/quaternion.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstring \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/new \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__exception/exception.h \
@@ -685,19 +685,19 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/uses_allocator_construction.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/vector2.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/vector3.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/color4.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/matrix3x3.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/matrix4x4.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/matrix4x4.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/matrix3x3.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/quaternion.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/MathFunctions.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/quaternion.inl \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/Logger.hpp \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/types.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/TinyFormatter.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/vector2.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/vector3.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/color4.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/matrix3x3.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/matrix4x4.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/matrix4x4.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/matrix3x3.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/quaternion.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/MathFunctions.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/quaternion.inl \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/Logger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/types.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/TinyFormatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/sstream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/istream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/ostream \
@@ -735,7 +735,7 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg___va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/__stdarg_va_copy.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cstdarg \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/../../include/assimp/NullLogger.hpp \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/../../include/assimp/NullLogger.hpp \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/vector \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__format/formatter.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__format/format_fwd.h \
@@ -762,10 +762,10 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/array \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__memory/temp_value.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__split_buffer \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/UnitTestPCH.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/cimport.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/importerdesc.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/UnitTestPCH.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/cimport.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/importerdesc.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iomanip \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/set \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/is_transparent.h \
@@ -795,15 +795,15 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_binary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-assertion-result.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-message.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-port.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-assertion-result.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-message.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-port.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/iostream \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/compat/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/sys/stat.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/stat.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/custom/gtest-port.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-port-arch.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/custom/gtest-port.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-port-arch.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/unistd.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/bits/posix.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/regex.h \
@@ -825,28 +825,28 @@ vendor/assimp/test/CMakeFiles/unit.dir/unit/Main.cpp.o: \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__chrono/year_month_day.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__chrono/year_month_weekday.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__chrono/literals.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-death-test.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-matchers.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-printers.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-internal.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-death-test.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-matchers.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-printers.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-internal.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/float.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/lib/clang/18/include/float.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/map \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-filepath.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-string.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-type-util.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-filepath.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-string.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-type-util.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cxxabi.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__cxxabi_config.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-param-test.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-param-util.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-param-test.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/internal/gtest-param-util.h \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/cassert \
   /Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-test-part.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-typed-test.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest_pred_impl.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest_prod.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/test/unit/UTLogStream.h \
-  /Users/ph4nt0m/Developer/playground-portfolio/vendor/assimp/include/assimp/LogStream.hpp
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-test-part.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest-typed-test.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest_pred_impl.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/contrib/googletest/googletest/include/gtest/gtest_prod.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/test/unit/UTLogStream.h \
+  /Users/ph4nt0m/Developer/playground/vendor/assimp/include/assimp/LogStream.hpp
