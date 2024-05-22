@@ -21,19 +21,83 @@
 			width: 100%;
 			height: 100%;
             position: relative; 
+			z-index: 800;
+        }
+
+		#no-webgpu {
+			display: none; 
+			position: fixed; 
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-color: #fca311; 
+			display: none;
+			justify-content: center;
+			align-items: center; 
+			font-size: 48px; 
+			font-weight: bold;
+			color: #fff; 
+			z-index: 1001;
+		}
+
+		#err-fatal {
+			display: none;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background-color: #ef233c;
+			display: none;
+			justify-content: center;
+			align-items: center;
+			font-size: 48px;
+			font-weight: bold;
+			color: #fff;
+			z-index: 1000;
+		}
+
+        #overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #8cb369; 
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+            z-index: 999; 
+            font-size: 48px;
+			font-weight: bold;
+            color: #fff; 
         }
     </style>
 </head>
 <body>
+    <div id="overlay">Loading...</div> <!-- Overlay element -->
+	<div id="no-webgpu">WebGPU not supported on this browser :(<br>Please try with chromium based one.</div>
+	<div id="err-fatal">An error occured while demo loading. <br> Would you like to check my youtube instead?</div> <!-- Overlay element -->
     <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
 		<script type="text/javascript">
 
         var Module = {
             canvas: (function() { return document.getElementById('canvas'); })(),
             onRuntimeInitialized: function() {
-				console.log("READY");
-            }
+                document.getElementById('overlay').style.display = 'none';
+            },
+			printErr: function(err) {console.log("ERROR: " + err)},
+			onAbort: function() {document.getElementById('err-fatal').style.display = 'flex'; }
         };
+
+		window.onerror = (event) => {
+            document.getElementById('err-fatal').style.display = 'flex';
+        };
+
+		if (!navigator.gpu) {
+            document.getElementById('no-webgpu').style.display = 'flex';
+        }
     </script>
 
     <script src="MyApp.js"></script>
