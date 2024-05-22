@@ -1,0 +1,2 @@
+/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emar qc /Users/ph4nt0m/Developer/playground/vendor/physx/physx/bin/UNKNOWN/release/libPhysXCooking.a CMakeFiles/PhysXCooking.dir/__/__/physxcooking/src/Cooking.cpp.o
+/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/emranlib /Users/ph4nt0m/Developer/playground/vendor/physx/physx/bin/UNKNOWN/release/libPhysXCooking.a

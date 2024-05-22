@@ -1,0 +1,1 @@
+/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/em++ -fvisibility=hidden -fno-strict-aliasing -Wall -Wno-long-long  -pthread -O3 -DNDEBUG -L/opt/homebrew/opt/llvm/lib -pthread @CMakeFiles/unit.dir/objects1.rsp -o ../bin/unit.js @CMakeFiles/unit.dir/linkLibs.rsp

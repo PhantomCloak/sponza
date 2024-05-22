@@ -1,0 +1,9 @@
+libdir=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/lib
+includedir=/Users/ph4nt0m/Developer/emsdk/upstream/emscripten/cache/sysroot/include
+
+Name: MyDawnProject
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.4.0
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

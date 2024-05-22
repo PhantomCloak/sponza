@@ -1,0 +1,36 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleComponents.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleComponents.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleComponents.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleDrive.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDrive.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDrive.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleDrive4W.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDrive4W.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDrive4W.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleDriveNW.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDriveNW.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDriveNW.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleDriveTank.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDriveTank.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleDriveTank.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleMetaData.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleMetaData.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleMetaData.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleNoDrive.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleNoDrive.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleNoDrive.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleSDK.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSDK.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSDK.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleSerialization.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSerialization.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSerialization.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleSuspWheelTire4.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSuspWheelTire4.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleSuspWheelTire4.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleTireFriction.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleTireFriction.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleTireFriction.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleUpdate.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleUpdate.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleUpdate.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/PxVehicleWheels.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleWheels.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/PxVehicleWheels.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/VehicleUtilControl.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilControl.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilControl.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/VehicleUtilSetup.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilSetup.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilSetup.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/VehicleUtilTelemetry.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilTelemetry.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/VehicleUtilTelemetry.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/physxmetadata/src/PxVehicleAutoGeneratedMetaDataObjects.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/physxmetadata/src/PxVehicleAutoGeneratedMetaDataObjects.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/physxmetadata/src/PxVehicleAutoGeneratedMetaDataObjects.cpp.o.d"
+  "/Users/ph4nt0m/Developer/playground/vendor/physx/physx/source/physxvehicle/src/physxmetadata/src/PxVehicleMetaDataObjects.cpp" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/physxmetadata/src/PxVehicleMetaDataObjects.cpp.o" "gcc" "vendor/PhysX/physx/compiler/public/sdk_source_bin/CMakeFiles/PhysXVehicle.dir/__/__/physxvehicle/src/physxmetadata/src/PxVehicleMetaDataObjects.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
